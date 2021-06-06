@@ -7,9 +7,8 @@ description: "Beberapa Tips mempelajari Beberapa contoh Tips untuk menentukan ko
 hideMeta: false
 searchHidden: false
 ShowBreadCrumbs: true
-tags: ["Pasir putih, "Kolam renang", "Tips"]
-category:
-- Olahraga
+tags: ["pasir putih, "kolam renang", "tips"]
+category: "Olahraga"
 ---
 
 Ini merupakan contoh untuk Tips mencari ikan untuk pemula. Semoga bermanfaat.
