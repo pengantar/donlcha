@@ -32,8 +32,8 @@ languages:
                 - name: Tags
                   url: tags/
                   weight: 10
-                - name: Categories
-                  url: categories/
+                - name: Category
+                  url: category/
                   weight: 10
 
 outputs:
@@ -125,7 +125,7 @@ params:
     #     keys: ["title", "permalink", "summary", "content"]
 
 taxonomies:
-    category: categories
+    category: category
     tag: tags
     series: series
 
