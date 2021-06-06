@@ -183,7 +183,7 @@ taxonomies:
     tag: tags
     series: series
 
-[ermalinks]
+[permalinks]
   posts = "/:title"
 
 markup:
