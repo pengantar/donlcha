@@ -1,5 +1,4 @@
 baseURL: "https://kertas-bo0.pages.dev"
-languageCode: "en-us"
 title: AKTips.com
 paginate: 5
 theme: hugo-PaperMod
