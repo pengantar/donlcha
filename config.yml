@@ -127,26 +127,26 @@ params:
     homeInfoParams:
         Title: "PaperMod"
         Content: >
-            Welcome to demo of hugo's theme PaperMod.
+            AKTips adalah website yang membahas segala Tips.
 
-            - **PaperMod** is a simple but fast and responsive theme with useful feature-set that enhances UX.
+            - **AKTips.com** is a simple Tips for lifestyle.
 
             - Do give a 🌟 on Github !
 
-            - PaperMod is based on theme [Paper](https://github.com/nanxiaobei/hugo-paper).
+            - Semoga tipsnya membantu.
 
     socialIcons:
         - name: github
-          url: "https://github.com/adityatelange/hugo-PaperMod"
+          url: "/"
         - name: KoFi
-          url: "https://ko-fi.com/adityatelange"
+          url: "/"
         - name: RsS
           url: "index.xml"
 
-    editPost:
-        URL: "https://github.com/adityatelange/hugo-PaperMod/tree/exampleSite/content"
-        Text: "Suggest Changes" # edit text
-        appendFilePath: true # to append file path to Edit link
+    #editPost:
+       # URL: "https://github.com/adityatelange/hugo-PaperMod/tree/exampleSite/content"
+        #Text: "Suggest Changes" # edit text
+        #appendFilePath: true # to append file path to Edit link
 
     # label:
     #     text: "Home"
@@ -182,6 +182,9 @@ taxonomies:
     category: categories
     tag: tags
     series: series
+
+[ermalinks]
+  posts = "/:title"
 
 markup:
     goldmark:
