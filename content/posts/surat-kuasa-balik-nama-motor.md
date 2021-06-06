@@ -10,7 +10,7 @@ hideMeta: false
 searchHidden: false
 ShowBreadCrumbs: true
 cover:
-  image: "static/papermod-cover.png"
+  image: "/papermod-cover.png"
   alt: "Surat kuasa balik nama motor"
   caption: "Surat kuasa balik nama motor"
   relative: false
