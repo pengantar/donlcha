@@ -19,11 +19,10 @@ minify:
     minifyOutput: true
 
 languages:
-   en:
-        languageName: ":en:"
-        languageAltTitle: English
+    en:
+        languageName: "English"
         weight: 1
-        title: AKTips.com
+         title: AKTips.com
         profileMode:
             enabled: true
             title: Aktips.com
@@ -40,24 +39,18 @@ languages:
         menu:
             main:
                 - name: Archive
-                  url: archives/
+                  url: archives
                   weight: 5
+                - name: Search
+                  url: search/
+                  weight: 10
                 - name: Tags
-                  url: tags
+                  url: tags/
                   weight: 10
                 - name: Categories
-                  url: categories
+                  url: categories/
                   weight: 10
-                - name: Series
-                  url: series
-                  weight: 10
-                - name: NullLink
-                  url: "#"
-                - name: NullLink2
-                  url: "#"
-                - name: NullLink3
-                  url: "#"
-  
+
 outputs:
     home:
         - HTML
