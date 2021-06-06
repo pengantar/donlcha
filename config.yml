@@ -136,10 +136,10 @@ params:
             - Semoga tipsnya membantu.
 
     socialIcons:
-        - name: github
-          url: "/"
-        - name: KoFi
-          url: "/"
+       # - name: github
+        #  url: "/"
+        #- name: KoFi
+         # url: "/"
         - name: RsS
           url: "index.xml"
 
