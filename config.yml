@@ -41,6 +41,15 @@ outputs:
         - HTML
         - RSS
         - JSON
+        
+imaging: 
+  resampleFilter : box
+  quality: 75
+  hint: photo
+  anchor: smart
+  bgColor: #ffffff
+disableDate: false
+disableLatLong: false
 
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
