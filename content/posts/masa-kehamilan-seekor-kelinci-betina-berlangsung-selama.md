@@ -4,7 +4,7 @@ title: "Masa kehamilan seekor kelinci betina berlangsung selama berapa bulan?"
 date: "2021-05-17"
 description: "Masa kehamilan seekor kelinci betina berlangsung selama berapa bulan?"
 tags: ["kelinci"]
-categories: ["hewan"]
+category: ["Hewan"]
 series: ["Pelihara Kelinci"]
 aliases: ["masa-kehamilan-seekor-kelinci-betina-berlangsung-selama"]
 ShowToc: true
