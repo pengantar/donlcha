@@ -1,23 +1,15 @@
 ---
-title: Tips mempelajari Ilmu Dasar Administrasi Perkantoran
-date: 2021-05-20T12:00:06+09:00
-description: Beberapa Tips mempelajari Ilmu Dasar Administrasi Perkantoran bagi pemula.
-draft: false
-hideToc: false
-enableToc: true
-enableTocContent: true
-author: AkTips.com
-authorEmoji: 🤖
-tags:
-- perkantoran
-- pemula
-- cara
-- tips
-categories:
-- perkantoran
-series:
-- Ilmu Dasar Administrasi Perkantoran
-image: images/feature1/markdown.png
+author: "Admin AkTips.com"
+title: "Tips berenng di kolam renang pasir putih"
+subtitle: "Beberapa contoh Tips untuk menentukan kolam renang terbaik" 
+date: "2021-06-06"
+description: "Beberapa Tips mempelajari Beberapa contoh Tips untuk menentukan kolam renang terbaik."
+hideMeta: false
+searchHidden: false
+ShowBreadCrumbs: true
+tags: ["Pasir putih, "Kolam renang", "Tips"]
+category:
+- Olahraga
 ---
 
 Ini merupakan contoh untuk Tips mencari ikan untuk pemula. Semoga bermanfaat.
