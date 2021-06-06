@@ -9,6 +9,11 @@ tags: ["surat kuasa balik nama", "surat kuasa", "otomotif"]
 hideMeta: false
 searchHidden: false
 ShowBreadCrumbs: true
+cover:
+  image: "static/papermod-cover.png"
+  alt: "Surat kuasa balik nama motor"
+  caption: "Surat kuasa balik nama motor"
+  relative: false
 ---
 
 ### Surat Kuasa Balik Nama Motor
