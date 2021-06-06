@@ -4,7 +4,7 @@ title: "Pengertian Perhotelan"
 date: "2021-05-05"
 description: "Perhotelan merupakan bidang ilmu yang mempelajari pengelolaan hotel serta cara menyeimbangkan aspek wisata dan manajemen bisnis untuk mencapai kesuksesan."
 tags: ["perhotelan"]
-categories: ["pendidikan"]
+category: ["pendidikan"]
 series: ["Ilmu Dasar Perhotelan"]
 aliases: ["pengertian-perhotelan"]
 ShowToc: true
