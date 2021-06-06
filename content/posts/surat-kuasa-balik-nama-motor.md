@@ -17,7 +17,7 @@ cover:
 ---
 
 ### Surat Kuasa Balik Nama Motor
-![Surat Kuasa Balik Nama Motor](/static/papermod-cover.png "How to make grindstone in Minecraft")
+![Surat Kuasa Balik Nama Motor](/papermod-cover.png "Surat Kuasa Balik Nama Motor")
 
 Membahas Surat Kuasa Balik Nama Motor – Membeli sepeda motor dengan status second atau bekas mungkin telah menjadi hal biasa di tengah masyarakat kita. Selain karena memiliki peminat yang cukup banyak, transaksi jual beli motor bekas juga memberikan keuntungan yang besar bagi para pembeli.
 
