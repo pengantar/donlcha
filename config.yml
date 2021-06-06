@@ -1,6 +1,6 @@
 baseURL: "https://aktips.com"
 title: AKTips.com
-paginate: 5
+paginate: 10
 theme: hugo-PaperMod
 permalinks:
   posts: "/:title/"
@@ -53,8 +53,8 @@ disableLatLong: false
 
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
-    description: "Theme PaperMod - https://github.com/adityatelange/hugo-PaperMod"
-    author: Theme PaperMod
+    description: "Berbagai Tips - Website Tips sehari hari"
+    author: Admin AKTips.com
     # author: ["Me", "You"] # multiple authors
 
     defaultTheme: auto
