@@ -1,5 +1,5 @@
 ---
-author: "Hugo Authors"
+author: "Admin AkTips.com"
 title: "Surat kuasa balik nama motor"
 subtitle: "Beberapa contoh surat kuasa balik nama motor" 
 description: "Surat Kuasa balik nama motor merupakan hal yang sedikit ribet." 
@@ -17,8 +17,6 @@ cover:
 ---
 
 ### Surat Kuasa Balik Nama Motor
-![Surat Kuasa Balik Nama Motor](/papermod-cover.png)
-
 Membahas Surat Kuasa Balik Nama Motor – Membeli sepeda motor dengan status second atau bekas mungkin telah menjadi hal biasa di tengah masyarakat kita. Selain karena memiliki peminat yang cukup banyak, transaksi jual beli motor bekas juga memberikan keuntungan yang besar bagi para pembeli.
 
 Hal tersebut karena para pembeli bisa mendapatkan harga yang lebih murah jika dibandingkan ketika membeli sepeda motor baru lewat dealer resmi. Namun dilain sisi pembelian motor bekas juga bisa menjadi boomerang apabila tidak mengetahui tips beli motor bekas yang baik dan benar.
