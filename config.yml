@@ -19,9 +19,9 @@ minify:
     minifyOutput: true
 
 languages:
-   id:
-        languageName: ":id:"
-        languageAltTitle: Indonesia
+   en:
+        languageName: ":en:"
+        languageAltTitle: English
         weight: 1
         title: AKTips.com
         profileMode:
