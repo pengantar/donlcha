@@ -11,7 +11,7 @@ ShowToc: true
 TocOpen: true
 weight: 2
 ---
-![Pengertian Perhotelan](/static/pengertian-perhotelan.jpg)
+![Pengertian Perhotelan](/static/img/pengertian-perhotelan.jpg)
 ### Deskripsi Jurusan
 
 
