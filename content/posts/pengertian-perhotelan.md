@@ -1,12 +1,12 @@
 ---
 author: "Aktips.com"
-title: "Pengertian Perhotelan #Ilmu Dasar"
+title: "Pengertian Perhotelan"
 date: "2021-05-05"
 description: "Perhotelan merupakan bidang ilmu yang mempelajari pengelolaan hotel serta cara menyeimbangkan aspek wisata dan manajemen bisnis untuk mencapai kesuksesan."
 tags: ["perhotelan"]
 categories: ["pendidikan"]
 series: ["Ilmu Dasar Perhotelan"]
-aliases: ["pengertin-perhotelan"]
+aliases: ["pengertian-perhotelan"]
 ShowToc: true
 TocOpen: true
 weight: 2
