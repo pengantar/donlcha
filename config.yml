@@ -62,7 +62,7 @@ params:
     images: ["papermod-cover.png"]
 
     profileMode:
-        enabled: false
+        enabled: true
         title: PaperMod
         imageUrl: "#"
         imageTitle: my image
@@ -75,17 +75,17 @@ params:
               url: tags
 
     homeInfoParams:
-        Title: "PaperMod"
+        Title: "AKTips"
         Content: >
-            Welcome to demo of hugo's theme PaperMod.
-            - **PaperMod** is a simple but fast and responsive theme with useful feature-set that enhances UX.
-            - Do give a 🌟 on Github !
-            - PaperMod is based on theme [Paper](https://github.com/nanxiaobei/hugo-paper).
+           AKTips adalah website yang membahas berbagai tips.
+            - **AKTips.com** Tips Bermain Game.
+            - Tips Mempelajari administrasi Perkantoran!
+            - C.
     socialIcons:
         - name: github
-          url: "https://github.com/adityatelange/hugo-PaperMod"
+          url: "/"
         - name: KoFi
-          url: "https://ko-fi.com/adityatelange"
+          url: "/"
         - name: RsS
           url: "index.xml"
 
