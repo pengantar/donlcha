@@ -62,8 +62,8 @@ params:
     images: ["papermod-cover.png"]
 
     profileMode:
-        enabled: true
-        title: PaperMod
+        enabled: false
+        title: AKTips.com
         imageUrl: "#"
         imageTitle: my image
         # imageWidth: 120
