@@ -2,6 +2,8 @@ baseURL: "https://kertas-bo0.pages.dev"
 title: AKTips.com
 paginate: 5
 theme: hugo-PaperMod
+permalinks:
+  posts: "/:title/"
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
