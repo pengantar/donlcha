@@ -183,8 +183,6 @@ taxonomies:
     tag: tags
     series: series
 
-permalinks:
-  posts : "/:title"
 
 markup:
     goldmark:
