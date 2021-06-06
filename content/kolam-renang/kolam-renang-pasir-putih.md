@@ -1,15 +1,21 @@
 ---
 author: "Admin AkTips.com"
-title: "Tips berenng di kolam renang pasir putih"
+title: "Tips berenang di kolam renang pasir putih"
 subtitle: "Beberapa contoh Tips untuk menentukan kolam renang terbaik" 
-date: "2021-06-06"
-description: "Beberapa Tips mempelajari Beberapa contoh Tips untuk menentukan kolam renang terbaik."
+description: "Beberapa Tips mempelajari Beberapa contoh Tips untuk menentukan kolam renang terbaik." 
+date: "2021-06-03"
+category: "Olahraga"
+tags: ["pasir putih, "kolam renang", "tips"]
 hideMeta: false
 searchHidden: false
 ShowBreadCrumbs: true
-tags: ["pasir putih, "kolam renang", "tips"]
-category: "Olahraga"
+cover:
+  image: "/papermod-cover.png"
+  alt: "Surat kuasa balik nama motor"
+  caption: "Surat kuasa balik nama motor"
+  relative: false
 ---
+
 
 Ini merupakan contoh untuk Tips mencari ikan untuk pemula. Semoga bermanfaat.
 <!--more-->
@@ -64,49 +70,7 @@ Tables aren't part of the core Markdown spec, but Hugo supports supports them ou
 
 ## Code Blocks
 
-#### Code block with backticks
 
-```
-html
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Example HTML5 Document</title>
-</head>
-<body>
-  <p>Test</p>
-</body>
-</html>
-```
-#### Code block indented with four spaces
-
-    <!DOCTYPE html>
-    <html lang="en">
-    <head>
-      <meta charset="UTF-8">
-      <title>Example HTML5 Document</title>
-    </head>
-    <body>
-      <p>Test</p>
-    </body>
-    </html>
-
-#### Code block with Hugo's internal highlight shortcode
-{{< highlight html >}}
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Example HTML5 Document</title>
-</head>
-<body>
-  <p>Test</p>
-</body>
-</html>
-{{< /highlight >}}
-
-## List Types
 
 #### Ordered List
 
@@ -126,14 +90,3 @@ html
 1. First Sub-item
 2. Second Sub-item
 
-## Other Elements — abbr, sub, sup, kbd, mark
-
-<abbr title="Graphics Interchange Format">GIF</abbr> is a bitmap image format.
-
-H<sub>2</sub>O
-
-X<sup>n</sup> + Y<sup>n</sup>: Z<sup>n</sup>
-
-Press <kbd><kbd>CTRL</kbd>+<kbd>ALT</kbd>+<kbd>Delete</kbd></kbd> to end the session.
-
-Most <mark>salamanders</mark> are nocturnal, and hunt for insects, worms, and other small creatures.
