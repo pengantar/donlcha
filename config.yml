@@ -21,20 +21,6 @@ languages:
     en:
         languageName: "English"
         weight: 1
-         title: AKTips.com
-        profileMode:
-            enabled: true
-            title: Aktips.com
-            # imageUrl: "#"
-            # imageTitle: my image
-            # imageWidth: 120
-            # imageHeight: 120
-            subtitle: "☄️ Fast | ☁️ Fluent | 🌙 Smooth | 📱 Responsive"
-            buttons:
-                - name: Blog
-                  url: posts
-                - name: Tags
-                  url: tags
         menu:
             main:
                 - name: Archive
