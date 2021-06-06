@@ -16,7 +16,7 @@ Pertanyaan dasar untuk melatih berfikir.
 <!--more-->
 
 ## Apa Fungsi dari benda di dalam toilet
-![apa fungsi dua benda berikut ketika kamu menggunakan toilet](/static/papermod-cover.png)
+![apa fungsi dua benda berikut ketika kamu menggunakan toilet](papermod-cover.png)
 
 Perhotelan merupakan bidang ilmu yang mempelajari pengelolaan hotel serta cara menyeimbangkan aspek wisata dan manajemen bisnis untuk mencapai kesuksesan. Beberapa topik yang akan diajarkan antara lain mengenai pelayanan yang memuaskan bagi pelanggan, melindungi budaya lokal, manfaat ekonomi yang diperoleh bagi masyarakat sekitar serta kesejahteraan karyawan. Selain itu kamu pun akan dibekali dengan pelajaran bahasa asing untuk menghadapi tren wisatawan internasional yang terus meningkat.
 
