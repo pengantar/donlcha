@@ -1,4 +1,5 @@
 baseURL: "https://kertas-bo0.pages.dev"
+languageCode: "id-id"
 title: AKTips.com
 paginate: 5
 theme: hugo-PaperMod
@@ -56,26 +57,7 @@ languages:
                   url: "#"
                 - name: NullLink3
                   url: "#"
-   en:
-        languageName: "English"
-        weight: 2
-        menu:
-            main:
-                - name: Archive
-                  url: archives
-                  weight: 5
-                - name: Search
-                  url: search/
-                  weight: 10
-                - name: Tags
-                  url: tags/
-                  weight: 10
-                - name: Categories
-                  url: categories/
-                  weight: 10
-
-    
-
+  
 outputs:
     home:
         - HTML
