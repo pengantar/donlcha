@@ -3,7 +3,7 @@ title: AKTips.com
 paginate: 10
 theme: hugo-PaperMod
 permalinks:
-  posts: "/:title/"
+  posts: "/:section/:slug"
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
