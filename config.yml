@@ -3,8 +3,10 @@ title: AKTips.com
 paginate: 10
 theme: hugo-PaperMod
 permalinks:
-  posts: "/:section/:slug"
-
+  posts: "/:slug"
+  games: "/:section/:slug"
+  kolam-renang: "/:section/:slug"
+  
 enableInlineShortcodes: true
 enableRobotsTXT: true
 buildDrafts: false
