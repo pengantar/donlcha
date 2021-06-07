@@ -13,8 +13,7 @@ tags:
 - pemula
 - cara
 - tips
-category:
-- perkantoran
+category: ["Olahraga"]
 series:
 - Ilmu Dasar Administrasi Perkantoran
 image: images/feature1/markdown.png
