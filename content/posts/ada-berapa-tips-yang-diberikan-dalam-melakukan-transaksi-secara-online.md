@@ -1,7 +1,7 @@
 ---
 author: "Admin Aktips"
 title: "Ada berapa tips yang diberikan dalam melakukan transaksi secara online?"
-date: "2021-05-17"
+date: "2021-06-07"
 description: "Kali ini aktips.com membahas ada Beberapa Tips yang diberikan dalam melakukan transaksi secara online, Dalam bertransaksi tentu kita harus menyiapkan berbagai hal. Demi kelancara bersama."
 tags: ["tips", "transaksi", "online"]
 category: ["Tips"]
