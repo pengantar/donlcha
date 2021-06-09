@@ -4,7 +4,7 @@ title: "Genshin Impact surprises fans with Yoimiya, Sayu, and Ayaka's official i
 date: "2021-06-09"
 description: "Genshin Impact surprises fans with Yoimiya, Sayu, and Ayaka's official introductions, Best Tips in Genshin Impact"
 tags: ["Genshin Impact"]
-categories: ["Genshin Impact"]
+category: ["Genshin Impact"]
 series: ["Features"]
 ShowToc: true
 TocOpen: true
