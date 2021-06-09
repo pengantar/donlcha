@@ -9,14 +9,15 @@ series: ["Ilmu Dasar Perhotelan"]
 aliases: ["pengertian-perhotelan"]
 ShowToc: true
 TocOpen: true
+cover:
+  image: "/img/pengertian-perhotelan.jpg"
+  alt: "Pengertian Perhotelan"
+  caption: "Pengertian Perhotelan"
+  relative: false
 ---
-![Pengertian Perhotelan](/img/pengertian-perhotelan.jpg)
-### Deskripsi Jurusan
-
+## Deskripsi Jurusan
 
 Perhotelan merupakan bidang ilmu yang mempelajari pengelolaan hotel serta cara menyeimbangkan aspek wisata dan manajemen bisnis untuk mencapai kesuksesan. Beberapa topik yang akan diajarkan antara lain mengenai pelayanan yang memuaskan bagi pelanggan, melindungi budaya lokal, manfaat ekonomi yang diperoleh bagi masyarakat sekitar serta kesejahteraan karyawan. Selain itu kamu pun akan dibekali dengan pelajaran bahasa asing untuk menghadapi tren wisatawan internasional yang terus meningkat.
-
-
 
 
 
