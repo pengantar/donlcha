@@ -54,7 +54,7 @@ disableDate: false
 disableLatLong: false
 
 params:
-    mainSections: ["posts","kolam-renang"]
+    mainSections: ["posts","kolam-renang","games"]
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
     description: "Berbagai Tips - Website Tips sehari hari"
     author: Admin AKTips.com
