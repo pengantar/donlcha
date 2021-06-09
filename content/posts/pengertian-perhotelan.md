@@ -9,7 +9,6 @@ series: ["Ilmu Dasar Perhotelan"]
 aliases: ["pengertian-perhotelan"]
 ShowToc: true
 TocOpen: true
-weight: 2
 ---
 ![Pengertian Perhotelan](/img/pengertian-perhotelan.jpg)
 ### Deskripsi Jurusan
